@@ -34,8 +34,8 @@ I am a Front-end developer and aspring to be a Data analyst.
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/RieRiley/asset/blob/main/microsoft-sql-server-1.svg" title="MS SQL server" alt="MS SQL server" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="70" height="70"/>&nbsp;
-  <img src="https://github.com/RieRiley/asset/blob/main/visual-studio-code-1.svg" title="Visual Studio" alt="Visual Studio" width="70" height="70"/>&nbsp;
+  <img src="https://github.com/RieRiley/asset/blob/main/azure-2.svg" title="Azure" alt="Azure" width="70" height="70"/>&nbsp;
+  <img src="https://github.com/RieRiley/asset/blob/main/visual-studio-code-1.svg" title="Visual Studio" alt="Visual Studio" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="R Studio" alt="R Studio" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
@@ -46,8 +46,10 @@ I am a Front-end developer and aspring to be a Data analyst.
   <img src="https://github.com/RieRiley/asset/blob/main/Microsoft%20Power%20Bi%20Logo%20Vector.svg" title="Power BI"  alt="Power BI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://github.com/RieRiley/asset/blob/main/tableau-logo.svg" title="Tableau" alt="Tableau" width="40" height="40"/>&nbsp;
-  <img src=" https://github.com/RieRiley/asset/blob/main/microsoft-5.svg" title="microsoft" **alt="microsoft" width="40" height="40"/>
-<--  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" **alt="GitHub" width="40" height="40"/> -->
+  <img src="https://github.com/RieRiley/asset/blob/main/microsoft-5.svg" title="microsoft" alt="microsoft" width="40" height="40"/>
+<--  
+ <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" **alt="GitHub" width="40" height="40"/> 
+ -->
 
 
 </div>
