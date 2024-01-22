@@ -25,7 +25,7 @@ I am a Front-end developer and aspring to be a Data analyst.
 - 🌱 I’m currently learning Azure cloud computing and data visualisation.
 - ⚡ In my free time, I solve problems on GeeksforGeeks and read tech articles.
 - 👯 I’m looking to collaborate on Data analysis.
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rie-riley-b1bb8a5/)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-RieRiley-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rie-riley-b1bb8a5/)
 
   <!--
 - 🤔 I’m looking for help with ...
