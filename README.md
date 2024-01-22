@@ -1,7 +1,7 @@
 <div id="header" align="center">
  
-  <img src="https://github.com/RieRiley/asset/analtic Img.jpg" width="100"/>
-  ![image](https://github.com/RieRiley/RieRiley/assets/45144975/1db54e94-3202-4fe7-ac07-0eb2774ff492)
+  <img src="https://github.com/RieRiley/asset/README.md/analtic Img.jpg" width="100"/>
+
 
 </div>
 ### Hello 👋 My name is Rie Riley
