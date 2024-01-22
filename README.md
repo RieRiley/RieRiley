@@ -1,16 +1,4 @@
-<style>
-.parentContainer {
-position: relative;
-text-align: center;
-color: white;
-}
-.centered {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
-</style>
+
 
 <div id="header" align="center"> 
   <img src="https://github.com/RieRiley/asset/blob/main/analtic%20Img.jpg" width="200; height:200"/>
@@ -22,13 +10,13 @@ color: white;
 </div>
 
 ### <h2>Hello 👋 My name is Rie Riley </h2>
-
+<!--
 <div class= "parentContainer" align="center">
   <img src="https://github.com/RieRiley/asset/blob/main/codingLaptop.jpg" width="600" height="300"/>
     <div class="centered">Centered</div>
   </div>
 </div>
-
+-->
 ### :woman_technologist: About Me :
 <!--
 **RieRiley/RieRiley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
