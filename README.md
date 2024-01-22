@@ -1,10 +1,11 @@
 <div id="header" align="center">
  
-  <img src="https://github.com/RieRiley/asset/analtic lmg.jpg" width="200"/>
-
+  <img src="https://github.com/RieRiley/asset/analtic Img.jpg" width="200"/>
+<img src="http://github.com/RieRiley/asset/analtic Img.jpg" style=" width:60 ; height:60 "  >
 
 </div>
-![alt text](https://github.com/RieRiley/asset/analtic lmg.jpg?raw=true)
+![Employee data](/repository/asset/analtic Img.jpg?raw=true "Employee Data title")
+![alt text](https://github.com/RieRiley/asset/analtic Img.jpg?raw=true)
 ### Hello 👋 My name is Rie Riley
 
 <!--
