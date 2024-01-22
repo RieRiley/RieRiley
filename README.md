@@ -7,9 +7,15 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
-
+</div>
 ### <h2>Hello 👋 My name is Rie Riley </h2>
-
+<!--
+<div class= "parentContainer" align="center">
+  <img src="https://github.com/RieRiley/asset/blob/main/codingLaptop.jpg" width="600" height="300"/>
+    <div class="centered">Centered</div>
+  </div>
+</div>
+-->
 ### :woman_technologist: About Me :
 <!--
 **RieRiley/RieRiley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
