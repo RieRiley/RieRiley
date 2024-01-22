@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  ![alt text](https://github.com/RieRiley/asset/analytic Img.jpg?raw=true)
+ 
   <img src="https://github.com/RieRiley/asset/analytic Img.jpg" width="100"/>
 </div>
 ### Hello 👋 My name is Rie Riley
