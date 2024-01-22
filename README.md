@@ -45,6 +45,6 @@ I am a Front-end developer and aspring to be a Data analyst.
   <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="Illustrator"  alt="Illustrator" width="40" height="40"/>&nbsp;
   <img src="https://github.com/RieRiley/asset/blob/main/Microsoft%20Power%20Bi%20Logo%20Vector.svg" title="Power BI"  alt="Power BI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/RieRiley/asset/blob/main/Tableau%20Software%20Logo%20Vector.svg" title="Tableau" alt="Tableau" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/RieRiley/asset/blob/main/tableau-logo.svg" title="Tableau" alt="Tableau" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
 </div>
