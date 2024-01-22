@@ -28,7 +28,7 @@ I am a Front-end developer and aspring to be a Data analyst.
 - 👯 I’m looking to collaborate on Data analysis.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-RieRiley-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rie-riley-b1bb8a5/)
 
-  <!--
+<!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
@@ -54,6 +54,5 @@ I am a Front-end developer and aspring to be a Data analyst.
 <!--  
  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" **alt="GitHub" width="40" height="40"/> 
 -->
-
 
 </div>
