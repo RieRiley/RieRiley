@@ -8,7 +8,7 @@
   </a>
 </div>
 
-### <h3>Hello 👋 My name is Rie Riley </h3>
+### <h2>Hello 👋 My name is Rie Riley </h2>
 
 <div align="center">
   <img src="https://github.com/RieRiley/asset/blob/main/codingLaptop.jpg" width="600" height="300"/>
