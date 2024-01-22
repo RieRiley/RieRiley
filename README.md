@@ -8,7 +8,7 @@
     </a>
   </div>
 </div>
-<div id="body" align="left"> 
+
   ### <h2>Hello 👋 My name is Rie Riley </h2>
 <!--
 <div class= "parentContainer" align="center">
@@ -18,6 +18,7 @@
 </div>
 -->
   ### :woman_technologist: About Me :
+  <div id="body" align="left"> 
 <!--
 **RieRiley/RieRiley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
