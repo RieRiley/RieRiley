@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+  ![alt text](https://github.com/RieRiley/asset/analytic Img.jpg?raw=true)
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 ### Hello 👋 My name is Rie Riley
