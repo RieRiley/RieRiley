@@ -1,7 +1,7 @@
 <div id="header" align="center">
  
   <img src="https://github.com/RieRiley/asset/analtic Img.jpg" width="200"/>
-<img src="http://github.com/RieRiley/asset/analtic Img.jpg" style=" width:60 ; height:60 "  >
+<img src="~/asset/analtic Img.jpg" style=" width:60 ; height:60 "  >
 
 </div>
 ![Employee data](/repository/asset/analtic Img.jpg?raw=true "Employee Data title")
