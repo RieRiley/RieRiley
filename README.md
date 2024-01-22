@@ -8,7 +8,8 @@
     </a>
   </div>
 </div>
-### <h2>Hello 👋 My name is Rie Riley </h2>
+<div id="body" align="left"> 
+  ### <h2>Hello 👋 My name is Rie Riley </h2>
 <!--
 <div class= "parentContainer" align="center">
   <img src="https://github.com/RieRiley/asset/blob/main/codingLaptop.jpg" width="600" height="300"/>
@@ -16,7 +17,7 @@
   </div>
 </div>
 -->
-### :woman_technologist: About Me :
+  ### :woman_technologist: About Me :
 <!--
 **RieRiley/RieRiley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -34,6 +35,7 @@ I am a Front-end developer and aspring to be a Data analyst.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</div>
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
