@@ -17,12 +17,19 @@
   </div>
 </div>
 -->
-  ### :woman_technologist: About Me :
+  ### <h3>:woman_technologist: About Me :<h3>
   <div id="body" align="left"> 
 <!--
 **RieRiley/RieRiley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 I am a Front-end developer and aspring to be a Data analyst.
+I am a BSc Computer science graduate.
+Currently, I am at the end of the boot camp programme studying to be a data technician at JustIT to shape my curiosity and keen business interest through data analysis. I have gained Excel, Tableau, PowerBI, SQL, Python and Asure cloud computing skills.
+
+My interest in data started when I had an opportunity to process data and produce sales reports for a financial company. It amazed me how data can help the business. 
+I designed a Support Log for the university’s final-year project and in my previous role, I helped a company design and build a user-friendly Web-based Support system. I have also created web pages, dashboards and software interfaces. 
+Now I am adding backend knowledge to use data technology to specialise in a data-driven approach to strategic recommendations to help shape businesses. 
+
 
 - 🔭 I’m currently working on Python and PowerBI.
 - 🌱 I’m currently learning Azure cloud computing and data visualisation.
@@ -34,11 +41,11 @@ I am a Front-end developer and aspring to be a Data analyst.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I love skiing, travelling, puzzles and Cooking, and I write blogs. I volunteered in the Middle East for 6 months.
 -->
 </div>
 
-### <h2>:hammer_and_wrench: Languages and Tools :</h2>
+### <h3>:hammer_and_wrench: Languages and Tools :</h3>
 <div align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/RieRiley/asset/blob/main/microsoft-sql-server-1.svg" title="MS SQL server" alt="MS SQL server" width="50" height="50"/>&nbsp;
