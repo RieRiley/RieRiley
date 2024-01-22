@@ -1,6 +1,6 @@
 <div id="header" align="center">
  
-  <img src="https://github.com/RieRiley/asset/analtic Img.jpg" width="200"/>
+  <img src="https://github.com/RieRiley/asset/analtic lmg.jpg" width="200"/>
 
 
 </div>
