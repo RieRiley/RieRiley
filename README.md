@@ -8,7 +8,7 @@
   </a>
 </div>
 
-### Hello 👋 My name is Rie Riley
+### <h3>Hello 👋 My name is Rie Riley </h3>
 
 <div align="center">
   <img src="https://github.com/RieRiley/asset/blob/main/codingLaptop.jpg" width="600" height="300"/>
@@ -16,9 +16,9 @@
 </div>
 
 ### :woman_technologist: About Me :
-
+<!--
 **RieRiley/RieRiley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 I am a Front-end developer and aspring to be a Data analyst.
 
 - 🔭 I’m currently working on Python and PowerBI.
