@@ -1,4 +1,9 @@
 <style>
+.parentContainer {
+position: relative;
+text-align: center;
+color: white;
+}
 .centered {
   position: absolute;
   top: 50%;
@@ -6,8 +11,8 @@
   transform: translate(-50%, -50%);
 }
 </style>
-<div id="header" align="center">
- 
+
+<div id="header" align="center"> 
   <img src="https://github.com/RieRiley/asset/blob/main/analtic%20Img.jpg" width="200; height:200"/>
 
 <div id="badges">
@@ -18,11 +23,10 @@
 
 ### <h2>Hello 👋 My name is Rie Riley </h2>
 
-<div align="center">
+<div class= "parentContainer" align="center">
   <img src="https://github.com/RieRiley/asset/blob/main/codingLaptop.jpg" width="600" height="300"/>
-   <div class="centered">Centered
-   </div>
- </div>
+    <div class="centered">Centered</div>
+  </div>
 </div>
 
 ### :woman_technologist: About Me :
