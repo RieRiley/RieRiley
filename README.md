@@ -1,11 +1,14 @@
 <div id="header" align="center">
  
-  <img src="https://github.com/RieRiley/asset/blob/main/analtic%20Img.jpg" width="100; height:100"/>
+  <img src="https://github.com/RieRiley/asset/blob/main/analtic%20Img.jpg" width="200; height:200"/>
 
-
+<div id="badges">
+  <a href="https://www.linkedin.com/in/rie-riley-b1bb8a5/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 </div>
-![alt text](https://github.com/RieRiley/asset/analtic Img.jpg?raw=true)
 ### Hello 👋 My name is Rie Riley
 
 <!--
