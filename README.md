@@ -4,7 +4,7 @@
 
 
 </div>
-![alt text](https://github.com/RieRiley/asset/analtic Img.jpg?raw=true)
+![alt text](https://github.com/RieRiley/asset/analticImg.jpg?raw=true)
 ### Hello 👋 My name is Rie Riley
 
 <!--
