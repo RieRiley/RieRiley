@@ -37,8 +37,9 @@ I am a Front-end developer and aspring to be a Data analyst.
 - ⚡ Fun fact: ...
 -->
 </div>
+
 ### :hammer_and_wrench: Languages and Tools :
-<div>
+<div align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/RieRiley/asset/blob/main/microsoft-sql-server-1.svg" title="MS SQL server" alt="MS SQL server" width="50" height="50"/>&nbsp;
   <img src="https://github.com/RieRiley/asset/blob/main/azure-2.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
